@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="82px" height="25px" viewBox="0 0 82 25" enable-background="new 0 0 82 25" xml:space="preserve">
+<polygon fill-rule="evenodd" clip-rule="evenodd" points="0.042,1.266 0.042,23.51 10.764,23.51 10.764,21.264
+	2.963,21.264 2.963,1.266 "/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.707,15.709V1.266h2.953v14.443
+	c0,1.842,0.486,3.217,1.461,4.125c0.974,0.91,2.316,1.365,4.028,1.365s3.06-0.455,4.044-1.365c0.984-0.908,1.477-2.283,1.477-4.125
+	V1.266h2.921v14.443c0,2.611-0.798,4.602-2.392,5.971c-1.594,1.371-3.616,2.055-6.066,2.055c-2.451,0-4.467-0.684-6.051-2.055
+	C16.498,20.311,15.707,18.32,15.707,15.709"/>
+<polygon fill-rule="evenodd" clip-rule="evenodd" points="53.936,1.266 56.855,1.266 56.855,23.51 53.936,23.51
+	42.187,5.855 42.187,23.51 39.266,23.51 39.266,1.266 42.187,1.266 53.936,18.92 "/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M78.941,23.51l-1.734-4.879L78.941,23.51z M72.264,4.828
+	L67.32,18.631L72.264,4.828z M65.588,23.51h-2.986l8.09-22.244H73.9l8.057,22.244h-3.016L72.264,4.828L65.588,23.51z"/>
+</svg>
